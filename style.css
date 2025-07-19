@@ -406,18 +406,22 @@ h5{
 .pro-img{
    margin: auto;
 }
+  
+.experience {
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+}
 
-.experience{
+.exp-card {
   width: 90%;
-  margin: auto 0;
+  margin: 1.5rem auto;
 }
 
 .project{
   width: 90%;
-  margin: 0 auto;
+  margin: 0 auto 3rem auto;
 }
 
-.project-section{
-  padding-bottom: 1.5rem;
-}
 }
