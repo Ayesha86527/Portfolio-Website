@@ -409,11 +409,13 @@ h5{
 
 .experience{
   width: 90%;
+  margin: 0 auto;
 }
 
 .project{
   width: 90%;
   margin: 0 auto;
+  padding-bottom: 1.5rem;
 }
 
 }
