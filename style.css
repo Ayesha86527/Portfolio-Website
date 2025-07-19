@@ -409,7 +409,7 @@ h5{
 
 .experience{
   width: 90%;
-  margin: 0 auto;
+  margin: auto 0;
 }
 
 .project{
@@ -417,4 +417,7 @@ h5{
   margin: 0 auto;
 }
 
+.project-section{
+  padding-bottom: 1.5rem;
+}
 }
