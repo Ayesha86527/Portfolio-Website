@@ -402,6 +402,13 @@ h5{
 .core-skills{
   perspective: 250rem;
 }
+  
+.skill{
+  padding-right: 1rem;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+  border: 0.1rem solid aliceblue;
+}
 
 .pro-img{
    margin: auto;
