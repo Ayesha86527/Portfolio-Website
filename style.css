@@ -1,7 +1,5 @@
 html{
   font-size:16px;
-  max-width: 100%;
-  overflow-x: hidden;
   scroll-behavior: smooth;
 }
 
@@ -11,8 +9,6 @@ html{
 
 body{
     background-color: rgb(4, 43, 27);
-    max-width: 100%;
-    overflow-x: hidden;
 }
 
 p{
