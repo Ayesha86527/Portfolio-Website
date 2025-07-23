@@ -370,10 +370,6 @@ h5{
 
 
 @media (max-width: 768px){
-*{
-  box-sizing: border-box;
-}
-  
 html{
   font-size:10px;
 }
