@@ -1,14 +1,10 @@
 html{
   font-size:16px;
   scroll-behavior: smooth;
-  max-width: 100%;
-  overflow-x: hidden;
 }
 
 body{
     background-color: rgb(4, 43, 27);
-    max-width: 100%;
-    overflow-x: hidden;
 }
 
 p{
@@ -374,8 +370,17 @@ h5{
 
 
 @media (max-width: 768px){
-  html{
+*{
+  box-sizing: border-box;
+}
+  
+html{
   font-size:10px;
+}
+
+html, body{
+  max-width: 90%;
+  overflow-x: hidden;
 }
 
 .intro-class{
