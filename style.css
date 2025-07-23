@@ -437,7 +437,7 @@ html{
 
 .exp-card {
   width: calc(100% - 2rem);
-  margin: 0 auto 3rem auto;
+  margin: 0 auto 4rem 0.5rem;
   box-sizing: border-box;
 }
 
