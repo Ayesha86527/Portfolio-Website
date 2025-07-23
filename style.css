@@ -411,7 +411,7 @@ html{
 }
 
 .core-skills{
-  perspective: 210rem;
+  perspective: 150rem;
 }
   
 .skill{
@@ -437,7 +437,7 @@ html{
 
 .exp-card {
   width: calc(100% - 2rem);
-  margin: 0 auto 4rem auto;
+  margin: 0 auto 3rem auto;
   box-sizing: border-box;
 }
 
