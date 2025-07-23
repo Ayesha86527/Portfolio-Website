@@ -1,14 +1,14 @@
 html{
   font-size:16px;
   scroll-behavior: smooth;
-}
-
-*{
-  box-sizing: border-box;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 body{
     background-color: rgb(4, 43, 27);
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 p{
